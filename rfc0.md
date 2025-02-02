@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="../images/C1.svg" />
+  <img src="images/C1.svg" />
 </p>
 
 <p align="center">
@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="../images/C2.svg" />
+  <img src="images/C2.svg" />
 </p>
